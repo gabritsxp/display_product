@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+}
+h2 {
+  color: white;
+  display: inline-block;
+  margin: 1px;
+}
+
+p {
+  color: #b2b2b2;
+}
+span {
+  color: #febe01;
+}
+div {
+  margin: 20px;
+  height: ;
+}
+.titulo-principal {
+  text-align: center;
+}
+a {
+  background-color: #febe01;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.compra-carro,
+.compra-bike {
+  background: #111;
+  border-radius: 4px;
+  padding: 20px;
+  height: 120px;
+}
+
+.txtamarelo {
+  color: #febe01;
+}
